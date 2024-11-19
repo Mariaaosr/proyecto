@@ -1,0 +1,48 @@
+POST recibido: Array
+(
+    [idproducto] => 2
+)
+
+Datos a devolver: Array
+(
+    [ID] => 2
+    [Marca] => Tesla Model 3
+    [Precio] => 252050305
+)
+
+POST recibido: Array
+(
+    [idproducto] => 3
+)
+
+Datos a devolver: Array
+(
+    [ID] => 3
+    [Marca] => Porsche Boxster
+    [Precio] => 150073410
+)
+
+POST recibido: Array
+(
+    [idproducto] => 4
+)
+
+Datos a devolver: Array
+(
+    [ID] => 4
+    [Marca] => Audi Q2
+    [Precio] => 120815773
+)
+
+POST recibido: Array
+(
+    [idproducto] => 16
+)
+
+Datos a devolver: Array
+(
+    [ID] => 16
+    [Marca] => BMW M135i
+    [Precio] => 221289965
+)
+
